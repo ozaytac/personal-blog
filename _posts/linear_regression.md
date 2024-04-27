@@ -1,7 +1,7 @@
 ---
 title: 'Linear Regression'
 date: 2024-27-04
-permalink: /posts/linear_regression/
+permalink: /posts/blog/linear_regression/
 tags:
   - statistics
   - ml
